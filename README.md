@@ -13,10 +13,13 @@ For use this script:
 ```bash
 ./download_magshimim_exercises.sh 1) 
 ```
-and the projects are cloned to your directory.
+and the projects are cloned to your directory. 
+
+Note that below each project downloaded is the number of commits.
 
 **Very important**
 
 It is very important to get students used to giving their exercises in GitLab the name ex and the number of the exercise (ex1, ex2...)
 
 Enjoy
+![Screenshot 2021-10-17 112857](https://user-images.githubusercontent.com/73798892/137619695-9ac717ca-f004-4b8b-b6e8-aacb451553b0.png)
