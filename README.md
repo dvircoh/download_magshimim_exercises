@@ -1,0 +1,1 @@
+# download_magshimim_exercises
