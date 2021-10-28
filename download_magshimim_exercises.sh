@@ -12,7 +12,7 @@ for student in "${STUDENTS[@]}"
 	mv ex$1 "$student"_ex$1
 	cd "$student"_ex"$1"/
 	echo $student
-	git_count_commit="git rev-list --count master"
+	git_count_commit="git rev-list --count HEAD"
 	counter=$($git_count_commit)
 	echo $counter commits 
 	echo
